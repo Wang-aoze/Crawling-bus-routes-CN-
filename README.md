@@ -10,6 +10,7 @@ test文件为爬取主程序，爬取的线路名会生成data_（city）.txt �
 
 另外：get_line(7).py文件是一个包含了pyqt界面的集合代码，毕竟我做这个的初衷是为了课程设置，界面及搜索等功能设计的很简陋（仅支持模糊搜索）。我没时间做到了，外加这不是我负责的内容懒得弄了有兴趣的可以自己完善一下，爬取部分的代码与之前一致，仅暴力整合进去了而已。没有兴趣的下载，用test.py即可
 
+个人课设作品，才疏学浅，请多见谅。如需解答联系：wang.aoze.mail@gmail.com
 
 The following is a Chinese machine translation, please understand：
 
@@ -20,3 +21,5 @@ Attention: Whether it is the keywords crawled by the 8684 website or the URLs of
 The generated bus details are saved in the city bus route. csv, and I have provided a reference for Jinan
 Finally, map. py is used to generate a path map. Similarly, it requires Gaode's key (I left my own key on it, so I should be able to run the test directly) and generate an HTTP file in the map folder (create a new folder in the root directory). I don't know why opening it is slow and requires hanging a ladder (as mentioned above, a reference file is also included)
 Additionally: get_ The line (7). py file is a collection of code that includes the pyqt interface. After all, my original intention for doing this was to design the course settings, interface, and search functions very rudimentary (only supporting fuzzy search). I don't have time to do it, and I'm too lazy to handle the content that's not my responsibility. If you're interested, you can improve it yourself. The crawling part of the code is the same as before, it's just a violent integration. If you are not interested in downloading, just use test.py
+
+I apologize for my lack of knowledge and talent in my personal course design. If you need answers contact ：wang.aoze.mail@gmail.com
